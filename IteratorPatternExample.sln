@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPatternExample", "IteratorPatternExample.csproj", "{10907085-1C84-4962-8CC6-BD8385A02459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10907085-1C84-4962-8CC6-BD8385A02459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10907085-1C84-4962-8CC6-BD8385A02459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10907085-1C84-4962-8CC6-BD8385A02459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10907085-1C84-4962-8CC6-BD8385A02459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
